@@ -27,6 +27,8 @@ K + 1; SOMA = SOMA + K; } imprimir(SOMA);
 
 Ao final do processamento, qual será o valor da variável SOMA?
 
+R: 77
+
 ### Questão 4
 
 Descubra a lógica e complete o próximo elemento:</p>

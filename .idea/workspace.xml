@@ -4,16 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb1cbf08-be68-477e-905f-f70b3e5bed08" name="Changes" comment="feat: new repository.">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="bb1cbf08-be68-477e-905f-f70b3e5bed08" name="Changes" comment="feat: respostas para as questões um, dois, três.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/task/Exemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/task/Exemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/task/Exemplo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/task/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,15 +39,86 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Exemplo2.executor": "Run",
+    "Application.Exemplo3.executor": "Run",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Exemplo2">
+    <configuration name="Exemplo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.task.Exemplo1" />
+      <module name="TargetSistemasRP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemplo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.task.Exemplo2" />
+      <module name="TargetSistemasRP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exemplo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.task.Exemplo3" />
+      <module name="TargetSistemasRP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.task.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exemplo2" />
+        <item itemvalue="Application.Exemplo1" />
+        <item itemvalue="Application.Exemplo3" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="fix: broken rebase.">
+      <option name="closed" value="true" />
+      <created>1725936656561</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725936656561</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: respostar para as questões quatro e cinco.">
+      <option name="closed" value="true" />
+      <created>1725936676637</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725936676637</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: new repository." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: new repository." />
+    <MESSAGE value="fix: broken rebase." />
+    <MESSAGE value="feat: respostar para as questões quatro e cinco." />
+    <MESSAGE value="feat: respostas para as questões um, dois, três." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: respostas para as questões um, dois, três." />
   </component>
 </project>
